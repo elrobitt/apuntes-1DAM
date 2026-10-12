@@ -2,10 +2,10 @@
  - Algoritmos
   - Diagramas de flujo
 -Estructura de control: IF, WHILE, FOR
-#IF
+-IF
 • Para qué sirve: Ejecuta un bloque de código solo si una condición resulta verdadera.
 • Variantes comunes: else (si no se cumple, ejecuta otra cosa) y else if (evalúa otra condición adicional)
-#WHILE
+-WHILE
 • Para qué sirve: Repite un bloque de código mientras una condición sea verdadera.
 • Cuándo se evalúa: Al inicio de cada repetición. Si la condición es falsa desde el principio, el código del interior no se ejecuta ninguna vez.
 -FOR 
