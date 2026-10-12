@@ -1,17 +1,17 @@
 #Tema 1: Introducción a la programación
  - Algoritmos
   - Diagramas de flujo
--Estructura de control: if, while, for
-#if
+-Estructura de control: IF, WHILE, FOR
+#IF
 • Para qué sirve: Ejecuta un bloque de código solo si una condición resulta verdadera.
 • Variantes comunes: else (si no se cumple, ejecuta otra cosa) y else if (evalúa otra condición adicional)
-#while
+#WHILE
 • Para qué sirve: Repite un bloque de código mientras una condición sea verdadera.
 • Cuándo se evalúa: Al inicio de cada repetición. Si la condición es falsa desde el principio, el código del interior no se ejecuta ninguna vez.
-#For
+-FOR 
 • ara qué sirve: Repite un bloque de código un número determinado de veces.
 • Estructura típica: Consta de tres partes separadas por punto y coma:
 	1. Inicialización (ej. crear un contador i = 0).
 	2. Condición (ej. repetir mientras i < 10).
 	3. Incremento / Actualización (ej. sumar i++ al final de cada vuelta).
-    
+
